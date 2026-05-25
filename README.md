@@ -19,13 +19,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=PITANI+KUSWANTH;AI+Developer+%7C+ML+Engineer" alt="Typing SVG" />
 </p>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║               SNAKE CONTRIBUTION ANIMATION                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kushipeethani/kushipeethani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    PROFILE BADGES                           ║ -->
@@ -168,29 +161,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   GITHUB ANALYTICS                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushipeethani&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&icon_color=6a0dad&text_color=d4a5ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushipeethani&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=b026ff&fire=b026ff&currStreakLabel=d4a5ff" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushipeethani&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&text_color=d4a5ff" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushipeethani&bg_color=0a0a0a&color=b026ff&line=6a0dad&point=d4a5ff&area=true&area_color=6a0dad&hide_border=true" />
-</p>
-
-<br/>
-
----
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    GITHUB TROPHIES                          ║ -->
