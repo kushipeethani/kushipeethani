@@ -61,7 +61,6 @@
 - 👯 Looking to collaborate on **AI & ML Projects**
 - 💬 Ask me about **Python, AI, LLMs, RAG, NLP**
 - 📫 Reach me at **kushi.peethani222@gmail.com**
-- ⚡ Fun fact: **I debug code while dreaming in binary**
 
 <br/>
 
@@ -120,11 +119,12 @@
 | # | Project | Description | Tech |
 |:-:|---------|-------------|------|
 | 🤖 | [**AI Interview Chatbot System**](https://github.com/kushipeethani/AI-Interview-Chatbot-System) | AI-powered interview preparation with advanced NLP | ![Python](https://img.shields.io/badge/-Python-b026ff?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-6a0dad?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-b026ff?style=flat-square&logo=openai&logoColor=white) |
-| 🏥 | [**IoT Emergency Alert System**](https://github.com/kushipeethani/IoT-Emergency-Alert-System) | Real-time epileptic patient monitoring & alerting | ![IoT](https://img.shields.io/badge/-IoT-6a0dad?style=flat-square&logo=arduino&logoColor=white) ![Python](https://img.shields.io/badge/-Python-b026ff?style=flat-square&logo=python&logoColor=white) |
 | 🧠 | [**Python AI Virtual Assistant**](https://github.com/kushipeethani/Python-AI-Virtual-Assistant) | Voice-controlled AI assistant for daily tasks | ![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-b026ff?style=flat-square&logo=spacy&logoColor=white) |
-| 🌿 | [**Plant Medication Website**](https://github.com/kushipeethani/Plant-Medication-Website) | Herbal medicine recommendation platform | ![HTML5](https://img.shields.io/badge/-HTML5-b026ff?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6a0dad?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-b026ff?style=flat-square&logo=javascript&logoColor=white) |
-| 🔐 | [**Password Generator**](https://github.com/kushipeethani/Password-Generator) | Cryptographically secure password generation tool | ![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/-Security-b026ff?style=flat-square&logo=hackthebox&logoColor=white) |
+| 📄 | [**Langchain Doc-AI**](https://github.com/kushipeethani) | Intelligent document analysis & Q&A system powered by LangChain, RAG pipelines, and vector databases | ![Python](https://img.shields.io/badge/-Python-b026ff?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-6a0dad?style=flat-square&logo=chainlink&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-b026ff?style=flat-square&logo=databricks&logoColor=white) |
+| 🌿 | [**Plant Medication Website**](https://github.com/kushipeethani/Plant-Medication-Website) | Herbal medicine recommendation platform | ![HTML](https://img.shields.io/badge/-HTML-b026ff?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-6a0dad?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-b026ff?style=flat-square&logo=python&logoColor=white) |
+| 🔐 | [**Password Generator**](https://github.com/kushipeethani/Password-Generator) | Cryptographically secure password generation tool | ![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat-square&logo=python&logoColor=white) |
 | 🎲 | [**Rolling Dice Project**](https://github.com/kushipeethani/Rolling-Dice-Project) | Interactive probability simulator & visualizer | ![Python](https://img.shields.io/badge/-Python-b026ff?style=flat-square&logo=python&logoColor=white) |
+| 🏥 | [**IoT Emergency Alert System**](https://github.com/kushipeethani/IoT-Emergency-Alert-System) | Real-time epileptic patient monitoring & alerting | ![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
@@ -137,22 +137,15 @@
 <a href="https://github.com/kushipeethani/AI-Interview-Chatbot-System">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushipeethani&repo=AI-Interview-Chatbot-System&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&icon_color=6a0dad&text_color=d4a5ff" />
 </a>
-<a href="https://github.com/kushipeethani/IoT-Emergency-Alert-System">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushipeethani&repo=IoT-Emergency-Alert-System&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&icon_color=6a0dad&text_color=d4a5ff" />
-</a>
-
 <a href="https://github.com/kushipeethani/Python-AI-Virtual-Assistant">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushipeethani&repo=Python-AI-Virtual-Assistant&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&icon_color=6a0dad&text_color=d4a5ff" />
 </a>
+
 <a href="https://github.com/kushipeethani/Plant-Medication-Website">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushipeethani&repo=Plant-Medication-Website&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&icon_color=6a0dad&text_color=d4a5ff" />
 </a>
-
 <a href="https://github.com/kushipeethani/Password-Generator">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushipeethani&repo=Password-Generator&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&icon_color=6a0dad&text_color=d4a5ff" />
-</a>
-<a href="https://github.com/kushipeethani/Rolling-Dice-Project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushipeethani&repo=Rolling-Dice-Project&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=b026ff&icon_color=6a0dad&text_color=d4a5ff" />
 </a>
 
 </div>
